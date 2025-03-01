@@ -1,5 +1,31 @@
  Profesional en análisis y ciencia de datos, con experiencia en criminología corporativa y seguridad de sistemas. Enfocada en soluciones estratégicas con
  equipos interdisciplinarios para el análisis y la protección de datos.
+
+ # Educación
+
+ **2025**  Nuclio Digital, Barcelona 
+
+Máster en  Científico de datos|Analista de datos
+
+- Programación: Python, SQL
+- Modelado predictivo: scikit-learn, XGBoost
+- Visualización de datos: Power BI, Matplotlib
+- Redes neuronales: TensorFlow
+- Análisis de datos: Aplicación de técnicas estadística
+
+**2022**   Monlau Centre d'Estudis - La Sagrera
+
+ Operaciones de sistemas microinformáticos:
+
+- Formación en hardware y sistemas operativos
+- Mantenimiento de equipos y seguridad informática
+- Capacidad para gestionar, reparar y optimizar sistemas y redes
+
+**2020** Ciberseguridad
+
+- Ciberseguridad industrial en infraestructuras críticas
+- Diagnóstico y diseño de programa de gestión 
+
  # Experiencia profesional 
  **2022-2024**  Hospital Mare de Deu de la Merced
 
